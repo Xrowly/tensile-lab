@@ -108,7 +108,7 @@
 ### From source (development)
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tensile-lab.git
+git clone https://github.com/Xrowly/tensile-lab.git
 ```
 
 Then in Blender: **Edit → Preferences → Add-ons → Install…** → pick the cloned `tensile_lab` folder (Blender accepts folders, not just ZIPs). Or zip it yourself:
