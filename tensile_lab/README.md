@@ -70,9 +70,6 @@
 - [Verification Status](#verification-status)
 - [Architecture](#architecture)
 - [Troubleshooting](#troubleshooting)
-- [Publishing to GitHub](#publishing-to-github)
-- [License](#license)
-
 ---
 
 ## Features
