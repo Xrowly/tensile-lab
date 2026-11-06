@@ -101,7 +101,7 @@
 
 ### From a release ZIP (recommended)
 
-1. Download the latest `tensile_lab.zip` from the [Releases](https://github.com/YOUR-USERNAME/tensile-lab/releases) page.
+1. Download the latest `tensile_lab.zip` from the [Releases](https://github.com/Xrowly/tensile-lab/releases) page.
 2. Open Blender → **Edit → Preferences → Add-ons**.
 3. Click **Install…**, select the ZIP, and tick the checkbox next to **Tensile Lab**.
 4. Press `N` in the 3D viewport → open the **Tensile Lab** tab on the right sidebar.
